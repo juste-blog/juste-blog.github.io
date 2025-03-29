@@ -2,10 +2,10 @@
 layout: post
 title:  "Que nous disent les données électorales de 2018 sur les prochaines élections québécoises?"
 author:
-categories: [ Lecture ]
-tags: [ red ]
+categories :
+tags:
 image:
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description:
 featured: false
 hidden: false
 rating:
