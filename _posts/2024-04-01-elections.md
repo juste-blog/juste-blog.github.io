@@ -4,9 +4,9 @@ title:  "Que nous disent les données électorales de 2018 sur les prochaines é
 author: Juste
 categories: [ Lecture ]
 tags: [ red ]
-image: assets/images/11.jpg
+image:
 description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
+featured: false
 hidden: false
 rating:
 ---
