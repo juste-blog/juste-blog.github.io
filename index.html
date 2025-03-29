@@ -5,36 +5,18 @@ title: Accueil
 
 {% if page.url == "/" %}
 
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>À la une</span></h2>
-    </div>
-    <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-</section>
-
-{% endif %}
-
 <!-- Posts Index
 ================================================== -->
+<section class="header">
+
+    <div class="header">
+
+        <h1><span>Juste Tv sur Twitch</span>
 <section class="recent-posts">
 
     <div class="section-title">
 
-        <h2><span>Toutes les publications</span></h2>
+        <h2><span>Publications</span></h2>
 
     </div>
 
