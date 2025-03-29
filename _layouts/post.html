@@ -9,7 +9,7 @@ post_class: post-template
 ================================================== -->
 <div class="container">
     <div class="row">
-        <div class="column"></div>
+        <div class="column">
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
             {% include share.html %}
@@ -18,15 +18,8 @@ post_class: post-template
         <!-- Post -->
         
                 <!-- Post Title -->
+        <div class="column">
                 <h1 class="posttitle">{{ page.title }}</h1>
-
-            </div>
-
-            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-            {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
-            {% endif %}
-            <!-- End Adsense -->
 
             <!-- Post Featured Image -->
             {% if page.image %}
@@ -38,7 +31,7 @@ post_class: post-template
             {% endif %}
 
             {% endif %}
-          <div class="column"></div>
+        <div>
             <!-- End Featured Image -->
 
             <!-- Post Content -->
