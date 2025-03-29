@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Que nous disent les données électorales de 2018 sur les prochaines élections québécoises?"
-author: Juste
+author:
 categories: [ Lecture ]
 tags: [ red ]
 image:
