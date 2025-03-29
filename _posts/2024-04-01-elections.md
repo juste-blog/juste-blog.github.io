@@ -4,7 +4,7 @@ title:  "Que nous disent les données électorales de 2018 sur les prochaines é
 author:
 categories :
 tags:
-image:
+image: assets/images/10.jpg
 description:
 featured: false
 hidden: false
